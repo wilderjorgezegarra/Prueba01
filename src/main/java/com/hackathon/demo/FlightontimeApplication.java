@@ -15,5 +15,9 @@ public class FlightontimeApplication implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		System.out.println("Hola Equipo, H12-25-L-Equipo 18-Data Science");
 		System.out.println("Proyecto MVP para predecir retrasos en vuelos usando Data Science y API en Java Spring Boot");
+
+		System.out.println("Hola Wilder,  como te va...");
+		System.out.println("Me va Super Bien!!!");
 	}
 }
+
